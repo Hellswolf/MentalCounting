@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MentalCounting</string>
+    <string name="game">Game</string>
+    <string name="score">Score</string>
+    <string name="number_of_operation">Number of operation</string>
+    <string name="percent_of_success">Percent of Success</string>
+    <string name="last_operation">Last Operation</string>
+    <string name="return_page">Return</string>
+    <string name="operation">Opération</string>
+    <string name="valid">VALID</string>
+    <string name="invalid">INVALID</string>
+    <string name="submit">submit</string>
+</resources>
